@@ -38,6 +38,7 @@ AUC score was seelcted as evaluation metric.
     * overall model performance is enhanced
 
 **Results**
+
 AUC score was improved 10%, from 0.67 to 0.73
 
 **Discussion**
@@ -48,3 +49,7 @@ AUC score was improved 10%, from 0.67 to 0.73
 **Business Value**
 1. Conducted customer segmentation based on selected features.
 2. Provided recommendations how to prevent policyhollder from cancelling policy.
+
+**Notice**
+
+Because of confidencial agreement, All codes in this project were modified as sample code or modeling structure.
